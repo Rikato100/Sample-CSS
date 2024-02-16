@@ -1,0 +1,73 @@
+#body1 {
+background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('b1.jpg');
+height: auto;
+background-size: 100%;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed
+flex-direction: column;
+align-items: center;
+color: white;}
+
+#body2 {
+background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('b2.jpg');
+height: auto;
+background-size: 100%;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed
+flex-direction: column;
+align-items: center;
+color: white;}
+
+#body3 {
+background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('bj.jpg');
+height: auto;
+background-size: 100%;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed
+flex-direction: column;
+align-items: center;
+color: white;}
+
+#box {
+text-align: center;
+border-radius: 20px;
+padding: 20px;
+background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+box-shadow: 0 0 20px rgba(52, 152, 219, 1000);
+max-width: auto;
+margin-bottom: 20px;
+font-family: Geneva;}
+
+nav {width: 100%; padding: 2px 0;
+border-radius: 20px;
+display: flex; align-items: center;
+background: linear-gradient(rgba(40, 40, 40, 0.5), rgba(40, 40, 40, 0.5));
+justify-content: space-evenly;}
+
+nav a {
+text-decoration: underline;
+color: #fff;
+font-weight: bold;
+font-size: 1.5em;
+display: block;
+padding: 8px;
+border-radius: 5px;}
+
+nav a:hover {
+background-color: Blue;}
+
+a href {background-color: #3498db; 
+border-radius: 5px;}
+
+#special {text-shadow: 3px 3px blue; color: white;}
+
+
+h1 {text-align: center; color: #FFFF00}
+h2 {text-align: center; color: #008000}
+h3 {text-align: center; color: #FF0000}
+h4 {text-align: center; color: #0000FF}
+h5 {text-align: center; color: #00FFFF}
+h6 {text-align: center; color: #800080}
