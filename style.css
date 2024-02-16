@@ -56,7 +56,7 @@ display: block;
 padding: 8px;
 border-radius: 5px;}
 
-nav a:hover {
+nav a: hover {
 background-color: Blue;}
 
 a href {background-color: #3498db; 
@@ -69,5 +69,5 @@ h1 {text-align: center; color: #FFFF00}
 h2 {text-align: center; color: #008000}
 h3 {text-align: center; color: #FF0000}
 h4 {text-align: center; color: #0000FF}
-h5 {text-align: center; color: #00FFFF}
-h6 {text-align: center; color: #800080}
+h5 {text-align: center; color: #800080}
+h6 {text-align: center; color: #00FFFF}
