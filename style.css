@@ -12,7 +12,7 @@ color: white;}
 #body2 {
 background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('b2.jpg');
 height: auto;
-background-size: 100%;
+background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
 background-attachment: fixed
@@ -23,7 +23,7 @@ color: white;}
 #body3 {
 background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('bj.jpg');
 height: auto;
-background-size: 100%;
+background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
 background-attachment: fixed
