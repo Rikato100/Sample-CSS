@@ -1,10 +1,10 @@
 #body1 {
 background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('b1.jpg');
 height: auto;
-background-size: 100%;
+background-size: contained;
 background-repeat: no-repeat;
 background-position: center;
-background-attachment: fixed
+background-attachment: fixed;
 flex-direction: column;
 align-items: center;
 color: white;}
