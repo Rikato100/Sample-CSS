@@ -56,8 +56,15 @@ display: block;
 padding: 8px;
 border-radius: 5px;}
 
+nav a: link {
+background-color: Cyan;}
+
 nav a: hover {
 background-color: Blue;}
+
+nav a: visited {
+background-color: Red;}
+
 
 a href {background-color: #3498db; 
 border-radius: 5px;}
