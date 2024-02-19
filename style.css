@@ -49,25 +49,21 @@ justify-content: space-evenly;}
 
 nav a {
 text-decoration: underline;
-color: #fff;
 font-weight: bold;
 font-size: 1.5em;
 display: block;
 padding: 8px;
 border-radius: 5px;}
 
-nav a: link {
-background-color: Cyan;}
+a:link {background-color: Gray; color: 
+Cyan; text-shadow: 2px 2px Black;}
 
-nav a: hover {
-background-color: Blue;}
+a:visited {color: Green;}
 
-nav a: visited {
-background-color: Red;}
+a:hover {background-color: Lightgreen;
+color: Blue; text-shadow: 2px 2px White;}
 
-
-a href {background-color: #3498db; 
-border-radius: 5px;}
+a:active {background-color: Hotpink;} 
 
 #special {text-shadow: 3px 3px blue; color: white;}
 
